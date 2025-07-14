@@ -1,4 +1,3 @@
-sergeev@stage-tesla-node4-dcvcs:/data/projects/dn_sergeev/proj$ poetry run python3 grpo_trainer.py
 🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
 🦥 Unsloth Zoo will now patch everything to make training faster!
 INFO 07-12 17:43:04 [importing.py:53] Triton module has been replaced with a placeholder.
